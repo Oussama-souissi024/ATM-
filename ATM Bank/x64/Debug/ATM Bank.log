@@ -1,0 +1,3 @@
+﻿  ATM Bank.cpp
+C:\Users\admin\source\repos\ATM Bank\ATM Bank\ATM Bank.cpp(38,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ATM Bank.vcxproj -> C:\Users\admin\source\repos\ATM Bank\x64\Debug\ATM Bank.exe
