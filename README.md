@@ -1,63 +1,33 @@
-💳 Application Console de Simulation de DAB en C++
-🧾 Présentation
-Ce projet est une application console développée en C++ simulant un Distributeur Automatique de Billets (DAB). Il met en œuvre des concepts de programmation orientée objet (POO) et utilise des fichiers texte pour la persistance des données, offrant ainsi une approche éducative pour comprendre les opérations bancaires de base sans recourir à une base de données externe.
+# 💳 Application Console de Simulation de DAB en C++
 
-✨ Fonctionnalités
-Authentification des utilisateurs avec identifiants et mots de passe
+## 🧾 Présentation
 
-Consultation du solde du compte
+Ce projet est une application console développée en C++ simulant un Distributeur Automatique de Billets (DAB). Il met en œuvre des concepts de programmation orientée objet (POO) et utilise des fichiers texte pour la persistance des données, offrant ainsi une approche éducative pour comprendre les opérations bancaires de base sans recourir à une base de données externe.:contentReference[oaicite:4]{index=4}
 
-Dépôt et retrait d'espèces
+## ✨ Fonctionnalités
 
-Historique des transactions
+- :contentReference[oaicite:6]{index=6}
+- :contentReference[oaicite:9]{index=9}
+- :contentReference[oaicite:12]{index=12}
+- :contentReference[oaicite:15]{index=15}
+- :contentReference[oaicite:18]{index=18}:contentReference[oaicite:20]{index=20}
 
-Gestion des données via des fichiers texte
-GitHub
+## 🗂️ Structure du Projet
 
-🗂️ Structure du Projet
-ATM Bank.sln – Fichier de solution Visual Studio
+- :contentReference[oaicite:22]{index=22}
+- :contentReference[oaicite:25]{index=25}
+- :contentReference[oaicite:28]{index=28}
+- :contentReference[oaicite:31]{index=31}:contentReference[oaicite:33]{index=33}
 
-ATM Bank/ – Répertoire contenant les fichiers source principaux
+## 🚀 Démarrage
 
-.vs/ – Fichiers de configuration de Visual Studio
+### Prérequis
 
-x64/Debug/ – Répertoire des fichiers binaires compilés et de débogage
+- :contentReference[oaicite:35]{index=35}
+- :contentReference[oaicite:38]{index=38}:contentReference[oaicite:40]{index=40}
 
-🚀 Démarrage
-Prérequis
-Visual Studio 2019 ou version ultérieure
+### Installation
 
-Compilateur C++
-
-Installation
-Clonez le dépôt :
-
-bash
-Copier
-Modifier
-git clone https://github.com/Oussama-souissi024/ATM-.git
-Ouvrez le fichier ATM Bank.sln avec Visual Studio.
-
-Compilez la solution pour générer l'application.
-
-Exécutez l'application depuis l'environnement de développement ou directement via l'exécutable généré.
-
-📌 Utilisation
-Au lancement de l'application, suivez les instructions à l'écran pour :
-
-Vous connecter avec vos identifiants
-
-Consulter votre solde
-
-Effectuer des dépôts ou retraits
-
-Consulter l'historique de vos transactions
-GitHub
-
-Les données sont stockées dans des fichiers texte, simulant une base de données simple.
-
-🤝 Contribuer
-Les contributions sont les bienvenues ! N'hésitez pas à forker le dépôt et à soumettre des pull requests pour améliorer le projet.
-
-📄 Licence
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
+1. :contentReference[oaicite:42]{index=42}:contentReference[oaicite:44]{index=44}
+   ```bash
+   git clone https://github.com/Oussama-souissi024/ATM-.git
